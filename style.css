@@ -11,6 +11,7 @@ header {
     color: #e5E7EB;
     font-size: 18px;
     min-height: 50px;
+    font-family: roboto;
 }
 
 .headerlogo {
@@ -209,14 +210,12 @@ header {
 
 .secondsign {
     background-color: #3882F6;
-    border: solid white;
     color: white;
     border: solid white;
     width: 150px;
     height: 50px;
     font-size: 18px;
     border-radius: 8px;
-    margin-right: 100px;
 }
 
 footer {
